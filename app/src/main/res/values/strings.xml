@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">atividade7</string>
+    <string name="str_titulo_teladelogin">LOGIN</string>
+    <string name="str_hint_usuario">Digite seu usuario</string>
+    <string name="str_hint_senha">Digite sua senha</string>
+    <string name="str_manterconectado">Manter conectado</string>
+    <string name="str_btn_entrar">Entrar</string>
+    <string name="str_btn_sair">Deslogar</string>
+    <string name="str_bem_vindo">Bem vindo usuario</string>
+
+</resources>
